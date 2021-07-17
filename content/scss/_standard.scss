@@ -1,11 +1,7 @@
 body {
     box-sizing: border-box;
     margin: 0;
-    direction: rtl;
-    font-size: 14px;
-    line-height: 24px;
-    background-color: #fff;
-    text-align: right;
+    direction: ltr;
 
 }
 
@@ -16,7 +12,8 @@ body {
 }
 
 p {
-    margin: 0
+    margin: 0;
+    font-size: 12px;
 }
 
 

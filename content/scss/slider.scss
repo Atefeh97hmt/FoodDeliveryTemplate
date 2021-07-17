@@ -1,0 +1,45 @@
+.slider {
+    width: 100%;
+    position: relative;
+    direction: ltr;
+  
+    .slide {
+      margin: 0px;
+      transition: all ease-in-out .3s;
+  
+      img {
+        width: 100%;
+      }
+    }
+  
+    .slider-text {
+      position: absolute;
+      right: 210px;
+      top: 230px;
+  
+      h5 {
+        color: $base-color;
+        padding-right: 20px;
+  
+        &:before {
+          content: "";
+          position: absolute;
+          width: 17px;
+          height: 2px;
+          background-color: #ffb923;
+          right: 0px;
+          top: 12px;
+        }
+      }
+    }
+  }
+  
+  .hero-slider {
+    img {
+      height: 100vh;
+    }
+  
+  }
+  
+  
+ 

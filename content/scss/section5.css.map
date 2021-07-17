@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAEQ,SAFC,CACL,YAAY,CACR,GAAG,CAAA;EAEC,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "section5.scss"
+    ],
+    "names": [],
+    "file": "section5.css"
+}

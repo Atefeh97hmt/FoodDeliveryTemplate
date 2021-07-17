@@ -1,0 +1,23 @@
+.section4 .card-box i {
+  font-size: 70px;
+}
+
+.section4 .card-box h5 {
+  text-transform: uppercase;
+  font-size: 16px;
+  margin-top: 12px;
+}
+
+.section4 .card-box .orange-line {
+  background-color: #f9b129;
+  width: 36px;
+  height: 4px;
+  margin: auto;
+  opacity: 1;
+  margin-top: 12px;
+}
+
+.section4 .card-box p {
+  margin-top: 12px;
+}
+/*# sourceMappingURL=section4.css.map */
