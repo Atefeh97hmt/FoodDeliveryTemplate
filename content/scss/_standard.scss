@@ -1,0 +1,46 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    direction: rtl;
+    font-size: 14px;
+    line-height: 24px;
+    background-color: #fff;
+    text-align: right;
+
+}
+
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+p {
+    margin: 0
+}
+
+
+.dri_ltr {
+    direction: ltr
+}
+
+.w-50 {
+    width: 50%
+}
+
+.white-color {
+    color: #fff !important
+}
+
+a {
+    text-decoration: none;
+
+}
+.ptb-70 {
+    padding: 70px 0;
+}
+
+.mtb-70 {
+    margin: 70px 0;
+}
+
